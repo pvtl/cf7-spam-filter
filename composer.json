@@ -1,0 +1,17 @@
+{
+  "name": "pvtl/cf7-spam-filters",
+  "description": "A Contact Form 7 add-on to validate Australian phone numbers and block non-Australian IP addresses.",
+  "homepage": "https://github.com/pvtl/cf7-spam-filters",
+  "license": "Private",
+  "authors": [
+    {
+      "name": "Erin Welch",
+      "email": "erin.w@pvtl.io",
+      "homepage": "https://www.pivotalagency.com.au/"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=8.3"
+  }
+}
