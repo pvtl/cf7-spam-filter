@@ -26,4 +26,4 @@ Versioning comprises of 2 things:
     - Controlled by Git tags
 
 Versioning for this plugin is automated using a Github Action (`./.github/workflows/version-update.yml`).
-To release a new version, simply change the `* Version: x.x.x` (line 11) in `./training.php` - the Github Action will take care of the rest.
+To release a new version, simply change the `* Version: x.x.x` (line 11) in `./cf7-spam-filter.php` - the Github Action will take care of the rest.
