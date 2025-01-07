@@ -1,7 +1,7 @@
 {
-  "name": "pvtl/cf7-spam-filters",
+  "name": "pvtl/cf7-spam-filter",
   "description": "A Contact Form 7 add-on to validate Australian phone numbers and block non-Australian IP addresses.",
-  "homepage": "https://github.com/pvtl/cf7-spam-filters",
+  "homepage": "https://github.com/pvtl/cf7-spam-filter",
   "license": "Private",
   "authors": [
     {
