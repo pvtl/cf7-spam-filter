@@ -2,7 +2,7 @@
 /**
  * Plugin Name:       CF7 Spam Plugin
  * Description:       Layered spam filtering for Contact Form 7 (honeypot, rate limits, URL checks, blocklists, and more).
- * Version:           1.0.1
+ * Version:           1.0.2
  * Requires at least:   6.0
  * Requires PHP:        8.1
  * Author:              Pivotal Agency
@@ -17,7 +17,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
 
-define( 'cf7_spam_filter_VERSION', '1.0.1' );
+define( 'cf7_spam_filter_VERSION', '1.0.2' );
 
 /**
  * Bootstrap when Contact Form 7 is available.
